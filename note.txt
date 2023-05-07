@@ -1,0 +1,29 @@
+Milligram - A minimalist CSS framework
+
+Normalize.css
+	- এটা মূলত use করা হয়, সব browser এ যেন একি রকম দেখা যায়
+
+
+
+----------------------------------------------------------------
+run file from CLI [server এ কোন file run করাতে চাইলে]:
+
+	php -S localhost:<portnumber>
+
+	Example : php -S localhost:3030
+
+note: Ctrl + C [CLI তে - এটা দিলে আগের command টা off হয়ে যাবে]
+
+
+----------------------------------------------------------------
+current file directory দেখতে চাইলে:	[CLI থেকে]
+
+	pwd
+
+
+----------------------------------------------------------------
+host file দেখতে চাইলে:
+
+Linux   : /etc/hosts
+Mac     : subl/etc/hosts
+Windows : C:\Windows\System32\drivers\etc\hosts
